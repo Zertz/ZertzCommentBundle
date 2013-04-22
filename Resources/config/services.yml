@@ -1,0 +1,7 @@
+parameters:
+#    zertz_comment.example.class: Zertz\CommentBundle\Example
+
+services:
+#    zertz_comment.example:
+#        class: %zertz_comment.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
